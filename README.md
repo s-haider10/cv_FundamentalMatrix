@@ -1,9 +1,5 @@
-Here’s a draft for your README file to highlight your work on the "TP3: Fundamental Matrix" assignment:
-
----
-
 # TP3: Fundamental Matrix
-
+Syed Ali Haider | Computer Vision (Grad) with Prof. Jean Ponce
 ## Overview
 
 This project was completed as part of my coursework, focusing on stereo vision and epipolar geometry. The primary objective was to compute the **Fundamental Matrix (F)** between two views using a set of 2D correspondences from the "house" dataset. The project also involved computing epipolar lines, estimating the Fundamental Matrix using the linear least-squares method, and improving the results using Hartley's normalization.
@@ -46,5 +42,3 @@ The implementation successfully estimated the Fundamental Matrix, visualized epi
 This project provided hands-on experience with core concepts in stereo vision, projective geometry, and linear algebra, which I plan to build upon in my graduate studies. 
 
 ---
-
-This should help showcase your experience with fundamental computer vision concepts and advanced geometric methods in your grad school applications.
