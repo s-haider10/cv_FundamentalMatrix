@@ -36,9 +36,3 @@ This project was completed as part of my coursework, focusing on stereo vision a
 ## Results
 
 The implementation successfully estimated the Fundamental Matrix, visualized epipolar lines, and demonstrated the improvements in stereo geometry using Hartley normalization. The reduction in the mean distance between points and their corresponding epipolar lines validated the effectiveness of normalization.
-
----
-
-This project provided hands-on experience with core concepts in stereo vision, projective geometry, and linear algebra, which I plan to build upon in my graduate studies. 
-
----
